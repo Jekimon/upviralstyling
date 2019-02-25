@@ -3,6 +3,11 @@
   box-sizing: border-box;
 }
 
+.row {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
 .column {
   float: left;
   padding: 10px;
