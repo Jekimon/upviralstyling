@@ -36,29 +36,29 @@
 
 @media screen and (max-width: 600px) {
   h1 {
-    font-size: 36px;
-    line-height: 46px;
+    font-size: 36px!important;
+    line-height: 46px!important;
   }
 }
 
 @media screen and (max-width: 600px) {
   h2 {
-    font-size: 26px;
-    line-height: 36px;
+    font-size: 26px!important;
+    line-height: 36px!important;
   }
 }
 
 @media screen and (max-width: 600px) {
   h3 {
-    font-size: 24px;
-    line-height: 34px;
+    font-size: 24px!important;
+    line-height: 34px!important;
   }
 }
 
 @media screen and (max-width: 600px) {
   #bundle-title {
-    font-size: 22px;
-    line-height: 32px;
+    font-size: 22px!important;
+    line-height: 32px!important;
   }
 }
 
